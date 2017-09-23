@@ -1,0 +1,13 @@
+{
+    "frameworks": 
+    {  
+     "net46":
+     { 
+      "dependencies":
+      {
+        "Newtonsoft.Json": "10.0.3",
+        "WindowsAzure.Storage": "8.4.0"
+      }
+     }
+   }
+   }
